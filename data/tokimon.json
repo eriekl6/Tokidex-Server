@@ -1,0 +1,52 @@
+[
+  {
+    "tokimonId": 1,
+    "name": "Toki 1",
+    "weight": 44254.0,
+    "height": 43.0,
+    "ability": "FLYING",
+    "strength": 2.0,
+    "color": "0x8099ffff",
+    "health": 55
+  },
+  {
+    "tokimonId": 2,
+    "name": "Toki2",
+    "weight": 213.02,
+    "height": 412.0,
+    "ability": "WATER",
+    "strength": 2.0,
+    "color": "0xb3e6e6ff",
+    "health": 77
+  },
+  {
+    "tokimonId": 3,
+    "name": "Toki 3",
+    "weight": 51.0,
+    "height": 213.0,
+    "ability": "FIRE",
+    "strength": 12.0,
+    "color": "0xcc3333ff",
+    "health": 77
+  },
+  {
+    "tokimonId": 4,
+    "name": "Toki 4",
+    "weight": 22.0,
+    "height": 41.0,
+    "ability": "ELECTRIC",
+    "strength": 66.0,
+    "color": "0xe6994dff",
+    "health": 100
+  },
+  {
+    "tokimonId": 5,
+    "name": "chicken wings",
+    "weight": 62.0,
+    "height": 665.0,
+    "ability": "FLYING",
+    "strength": 88.0,
+    "color": "0xccffccff",
+    "health": 23
+  }
+]
